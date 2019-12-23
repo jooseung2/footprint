@@ -23,7 +23,5 @@ def newJournal(journal_id):
         imagefile.save(filename)
         return "Image Uploaded successfully"
 
-
-
 if __name__ == '__main__':
     app.run(debug=True)
