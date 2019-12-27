@@ -1,0 +1,7 @@
+mysqlclient
+boto3
+flask
+werkzeug
+flask-jwt
+flask-restful
+Flask-SQLAlchemy
